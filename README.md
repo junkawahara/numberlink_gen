@@ -6,7 +6,7 @@ The Numberlink instance generator introduced in the following research paper:
   Finding All Solutions and Instances of Numberlink and Slitherlink by ZDDs,
   Algorithms 5(2), 176-213 (2012).](http://www.mdpi.com/1999-4893/5/2/176)
 
-Thk Numberlink solver and the Slitherlink solver/generator in the paper are available at 
+The Numberlink solver and the Slitherlink solver/generator in the paper are available at 
 [Hiroaki Iwashita's repository](https://github.com/kunisura/algorithms2012).
 
 Install:
